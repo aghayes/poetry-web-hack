@@ -86,6 +86,7 @@ img {
    text-align: center;
    display: inline-block;
    word-wrap: break-word;
+   white-space: normal;
 }
 #id_title {
     max-width: 300px;
